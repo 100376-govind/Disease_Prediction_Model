@@ -10,9 +10,7 @@ To simulate and/or predict how a disease spreads using mathematical models or ma
 
 ## 🔬 Approaches Used
 
-- **Epidemiological Models** (e.g., SIR, SEIR)
-- **Machine Learning Models** (e.g., Logistic Regression, Time Series Forecasting)
-- **Agent-Based Simulation** (optional if implemented)
+- **Machine Learning Models** 
 
 ---
 
@@ -23,7 +21,7 @@ To simulate and/or predict how a disease spreads using mathematical models or ma
 - Recovery rate
 - Incubation period
 - Social interaction parameters
-- Government interventions (optional)
+- Government interventions 
 
 ---
 
@@ -47,13 +45,5 @@ To simulate and/or predict how a disease spreads using mathematical models or ma
 
 ---
 
-## 📁 Dataset (if applicable)
 
-- Source: [Add source or link]
-- Format: CSV or time series data
-- Includes: Date-wise infection, recovery, and death rates per region
-
----
-
-## 📂 Folder Structure
 
