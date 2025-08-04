@@ -1,4 +1,4 @@
-# 🦠 Disease Spreading Model
+# 🦠 Disease Prediction Model
 
 A machine learning and simulation-based project designed to model and predict the spread of infectious diseases across a population. Useful for understanding transmission patterns, evaluating containment strategies, and forecasting outbreaks.
 
