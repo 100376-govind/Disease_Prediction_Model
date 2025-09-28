@@ -42,17 +42,9 @@ Converted from regression to binary classification (above/below mean target).
 
 Heart Disease (optional) → Requires external dataset (heart.csv).
 
-⚙️ Installation
-
-Clone the repository and install dependencies:
-
-git clone https://github.com/your-username/disease-prediction.git
-cd disease-prediction
-pip install -r requirements.txt
-
 Requirements
 
-Python 3.8+
+Python 3.10
 
 numpy
 
@@ -63,8 +55,6 @@ matplotlib
 seaborn
 
 scikit-learn
-
-(All dependencies are in requirements.txt)
 
 ▶️ Usage
 
@@ -106,11 +96,3 @@ Add more medical datasets (Heart Disease, Parkinson’s, etc.).
 Implement Deep Learning models (ANNs, CNNs).
 
 Build an interactive Streamlit web app for predictions.
-
-🤝 Contributing
-
-Pull requests are welcome! For major changes, please open an issue first to discuss your ideas.
-
-📜 License
-
-This project is licensed under the MIT License.
